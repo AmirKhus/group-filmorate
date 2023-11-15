@@ -59,7 +59,7 @@
 
 # DB structure
 
-![DB_stucture](DB structure/DB_structure.png)
+![DB_structure.png](DB%20structure%2FDB_structure.png)
 
 # ***Примеры запросов***
 <details>
